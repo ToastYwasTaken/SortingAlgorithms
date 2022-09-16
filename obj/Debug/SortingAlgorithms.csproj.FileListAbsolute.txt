@@ -1,0 +1,14 @@
+C:\Important_Programs\csharp\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\Important_Programs\csharp\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+C:\Important_Programs\csharp\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\Important_Programs\csharp\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojAssemblyReference.cache
+C:\Important_Programs\csharp\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Important_Programs\csharp\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\Important_Programs\csharp\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
+C:\Important_Own_Programs\csharp\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\Important_Own_Programs\csharp\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+C:\Important_Own_Programs\csharp\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\Important_Own_Programs\csharp\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojAssemblyReference.cache
+C:\Important_Own_Programs\csharp\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Important_Own_Programs\csharp\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\Important_Own_Programs\csharp\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
